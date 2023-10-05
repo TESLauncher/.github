@@ -1,6 +1,6 @@
 # TESLauncher
 
-TESLauncher is a new simple launcher for [Minecraft](https://minecraft.net). It is currently in a very early stage of development.
+TESLauncher is a new simple launcher for [Minecraft](https://minecraft.net). It is currently in a very early stage of development. <br>
 Future plans:
  - Add support for mods
  - Maybe add support for external tools
